@@ -9,3 +9,6 @@ So, Practice Daily atleast one question and improve your coding and problem solv
 
 Problem 1 : Write a Program to print Hello World.
 Problem 2 : Write a Program to read and Print.
+Problem 3 : Write a Program to know the ascii value of given word or letter.
+Problem 4: write a program to swap the value of two numbers.
+Problem 5: Write a program to find the size of any datatype.
