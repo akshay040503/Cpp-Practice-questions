@@ -22,3 +22,5 @@ Problem 12: Write a program to make a simple calculator.
 Problem 13: Write a Program to reverse the string.
 Problem 14: Write a Program to find the fibonacci series.
 Problem 15: Write a Program to swap the two numbers.
+Problem 16: Write a program to compare two array's are equal or not.
+Problem 17: Write a Program to find the average of elements in an array.
