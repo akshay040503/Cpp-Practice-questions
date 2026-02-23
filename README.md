@@ -27,3 +27,4 @@ Problem 17: Write a Program to find the average of elements in an array.
 Problem 18: Write a program to find the Maximum and minimum element in an array.
 Problem 19 : Write a program for Linear Search.
 Problem 20: Write a program to apply right rotation to an array element.
+Problem 21: Write a program to find the sum of the diagonal of an 4D Array.
